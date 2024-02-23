@@ -17,7 +17,6 @@ This is a Bookshop Management System written in C++. It provides functionalities
   - [Member Menu](#member-menu)
   - [Sales Menu](#sales-menu)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -96,6 +95,3 @@ The main menu provides options to navigate to different modules of the system, s
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
